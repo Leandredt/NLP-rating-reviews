@@ -1,0 +1,16 @@
+# Large data files
+reviews_cleaned.csv
+glove.6B.100d.txt
+Traduction avis clients/
+
+# Python
+venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# TensorBoard
+runs/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
